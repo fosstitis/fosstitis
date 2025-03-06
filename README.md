@@ -1,4 +1,4 @@
-Hi! I’m Stefanos Mamalis, a passionate football enthusiast with a deep interest in creating engaging puzzles, particularly word games and challenges. I'm also highly interested in data analysis, programming, and sports technology, and I love combining these skills to bring creative ideas to life.
+Hi! I’m Stefanos Mamalis, a passionate software, and technology enthusiast with a deep interest in creating engaging puzzles, particularly word games and challenges. I'm also highly interested in data analysis, and sports technology, and I love combining these skills to bring creative ideas to life.
 
 Skills & Interests
 Football: Passionate about European football, including clubs, players, and competitions.
